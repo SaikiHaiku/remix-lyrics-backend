@@ -1,1 +1,4 @@
-
+Flask
+pydub
+librosa
+numpy
